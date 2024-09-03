@@ -1,0 +1,14 @@
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/01-string-methods-homeworks/Question03/bin/Debug/net8.0/Question03
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/01-string-methods-homeworks/Question03/bin/Debug/net8.0/Question03.deps.json
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/01-string-methods-homeworks/Question03/bin/Debug/net8.0/Question03.runtimeconfig.json
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/01-string-methods-homeworks/Question03/bin/Debug/net8.0/Question03.dll
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/01-string-methods-homeworks/Question03/bin/Debug/net8.0/Question03.pdb
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/01-string-methods-homeworks/Question03/obj/Debug/net8.0/Question03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/01-string-methods-homeworks/Question03/obj/Debug/net8.0/Question03.AssemblyInfoInputs.cache
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/01-string-methods-homeworks/Question03/obj/Debug/net8.0/Question03.AssemblyInfo.cs
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/01-string-methods-homeworks/Question03/obj/Debug/net8.0/Question03.csproj.CoreCompileInputs.cache
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/01-string-methods-homeworks/Question03/obj/Debug/net8.0/Question03.dll
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/01-string-methods-homeworks/Question03/obj/Debug/net8.0/refint/Question03.dll
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/01-string-methods-homeworks/Question03/obj/Debug/net8.0/Question03.pdb
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/01-string-methods-homeworks/Question03/obj/Debug/net8.0/Question03.genruntimeconfig.cache
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/01-string-methods-homeworks/Question03/obj/Debug/net8.0/ref/Question03.dll
