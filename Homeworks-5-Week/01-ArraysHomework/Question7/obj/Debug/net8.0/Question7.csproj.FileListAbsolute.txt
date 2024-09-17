@@ -1,0 +1,15 @@
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Question7/bin/Debug/net8.0/Question7
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Question7/bin/Debug/net8.0/Question7.deps.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Question7/bin/Debug/net8.0/Question7.runtimeconfig.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Question7/bin/Debug/net8.0/Question7.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Question7/bin/Debug/net8.0/Question7.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Question7/obj/Debug/net8.0/Question7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Question7/obj/Debug/net8.0/Question7.AssemblyInfoInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Question7/obj/Debug/net8.0/Question7.AssemblyInfo.cs
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Question7/obj/Debug/net8.0/Question7.csproj.CoreCompileInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Question7/obj/Debug/net8.0/Question7.sourcelink.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Question7/obj/Debug/net8.0/Question7.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Question7/obj/Debug/net8.0/refint/Question7.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Question7/obj/Debug/net8.0/Question7.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Question7/obj/Debug/net8.0/Question7.genruntimeconfig.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Question7/obj/Debug/net8.0/ref/Question7.dll

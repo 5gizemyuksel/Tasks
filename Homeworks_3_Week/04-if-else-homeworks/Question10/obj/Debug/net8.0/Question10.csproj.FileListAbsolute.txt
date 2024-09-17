@@ -1,0 +1,14 @@
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/04-if-else-homeworks/Question10/bin/Debug/net8.0/Question10
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/04-if-else-homeworks/Question10/bin/Debug/net8.0/Question10.deps.json
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/04-if-else-homeworks/Question10/bin/Debug/net8.0/Question10.runtimeconfig.json
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/04-if-else-homeworks/Question10/bin/Debug/net8.0/Question10.dll
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/04-if-else-homeworks/Question10/bin/Debug/net8.0/Question10.pdb
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/04-if-else-homeworks/Question10/obj/Debug/net8.0/Question10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/04-if-else-homeworks/Question10/obj/Debug/net8.0/Question10.AssemblyInfoInputs.cache
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/04-if-else-homeworks/Question10/obj/Debug/net8.0/Question10.AssemblyInfo.cs
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/04-if-else-homeworks/Question10/obj/Debug/net8.0/Question10.csproj.CoreCompileInputs.cache
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/04-if-else-homeworks/Question10/obj/Debug/net8.0/Question10.dll
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/04-if-else-homeworks/Question10/obj/Debug/net8.0/refint/Question10.dll
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/04-if-else-homeworks/Question10/obj/Debug/net8.0/Question10.pdb
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/04-if-else-homeworks/Question10/obj/Debug/net8.0/Question10.genruntimeconfig.cache
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/04-if-else-homeworks/Question10/obj/Debug/net8.0/ref/Question10.dll

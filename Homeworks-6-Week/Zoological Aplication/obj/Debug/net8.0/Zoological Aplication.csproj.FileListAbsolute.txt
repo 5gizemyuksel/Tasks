@@ -1,0 +1,15 @@
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Zoological Aplication/bin/Debug/net8.0/Zoological Aplication
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Zoological Aplication/bin/Debug/net8.0/Zoological Aplication.deps.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Zoological Aplication/bin/Debug/net8.0/Zoological Aplication.runtimeconfig.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Zoological Aplication/bin/Debug/net8.0/Zoological Aplication.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Zoological Aplication/bin/Debug/net8.0/Zoological Aplication.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Zoological Aplication/obj/Debug/net8.0/Zoological Aplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Zoological Aplication/obj/Debug/net8.0/Zoological Aplication.AssemblyInfoInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Zoological Aplication/obj/Debug/net8.0/Zoological Aplication.AssemblyInfo.cs
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Zoological Aplication/obj/Debug/net8.0/Zoological Aplication.csproj.CoreCompileInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Zoological Aplication/obj/Debug/net8.0/Zoological Aplication.sourcelink.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Zoological Aplication/obj/Debug/net8.0/Zoological Aplication.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Zoological Aplication/obj/Debug/net8.0/refint/Zoological Aplication.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Zoological Aplication/obj/Debug/net8.0/Zoological Aplication.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Zoological Aplication/obj/Debug/net8.0/Zoological Aplication.genruntimeconfig.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Zoological Aplication/obj/Debug/net8.0/ref/Zoological Aplication.dll

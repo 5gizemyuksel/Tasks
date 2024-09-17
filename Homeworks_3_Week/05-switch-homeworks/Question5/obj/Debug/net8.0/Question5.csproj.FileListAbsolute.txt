@@ -1,0 +1,15 @@
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/05-switch-homeworks/Question5/obj/Debug/net8.0/Question5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/05-switch-homeworks/Question5/obj/Debug/net8.0/Question5.AssemblyInfoInputs.cache
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/05-switch-homeworks/Question5/obj/Debug/net8.0/Question5.AssemblyInfo.cs
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/05-switch-homeworks/Question5/obj/Debug/net8.0/Question5.csproj.CoreCompileInputs.cache
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/05-switch-homeworks/Question5/obj/Debug/net8.0/Question5.sourcelink.json
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/05-switch-homeworks/Question5/bin/Debug/net8.0/Question5
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/05-switch-homeworks/Question5/bin/Debug/net8.0/Question5.deps.json
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/05-switch-homeworks/Question5/bin/Debug/net8.0/Question5.runtimeconfig.json
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/05-switch-homeworks/Question5/bin/Debug/net8.0/Question5.dll
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/05-switch-homeworks/Question5/bin/Debug/net8.0/Question5.pdb
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/05-switch-homeworks/Question5/obj/Debug/net8.0/Question5.dll
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/05-switch-homeworks/Question5/obj/Debug/net8.0/refint/Question5.dll
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/05-switch-homeworks/Question5/obj/Debug/net8.0/Question5.pdb
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/05-switch-homeworks/Question5/obj/Debug/net8.0/Question5.genruntimeconfig.cache
+/Users/gizemyuksel/Documents/GitHub/HomeWorks_25_08_2024/05-switch-homeworks/Question5/obj/Debug/net8.0/ref/Question5.dll

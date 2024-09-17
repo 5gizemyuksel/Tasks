@@ -1,0 +1,15 @@
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/02-MethodsHomework/Question13/bin/Debug/net8.0/Question13
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/02-MethodsHomework/Question13/bin/Debug/net8.0/Question13.deps.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/02-MethodsHomework/Question13/bin/Debug/net8.0/Question13.runtimeconfig.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/02-MethodsHomework/Question13/bin/Debug/net8.0/Question13.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/02-MethodsHomework/Question13/bin/Debug/net8.0/Question13.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/02-MethodsHomework/Question13/obj/Debug/net8.0/Question13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/02-MethodsHomework/Question13/obj/Debug/net8.0/Question13.AssemblyInfoInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/02-MethodsHomework/Question13/obj/Debug/net8.0/Question13.AssemblyInfo.cs
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/02-MethodsHomework/Question13/obj/Debug/net8.0/Question13.csproj.CoreCompileInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/02-MethodsHomework/Question13/obj/Debug/net8.0/Question13.sourcelink.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/02-MethodsHomework/Question13/obj/Debug/net8.0/Question13.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/02-MethodsHomework/Question13/obj/Debug/net8.0/refint/Question13.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/02-MethodsHomework/Question13/obj/Debug/net8.0/Question13.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/02-MethodsHomework/Question13/obj/Debug/net8.0/Question13.genruntimeconfig.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/02-MethodsHomework/Question13/obj/Debug/net8.0/ref/Question13.dll

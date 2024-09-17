@@ -1,0 +1,15 @@
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Questionpoint/bin/Debug/net8.0/Questionpoint
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Questionpoint/bin/Debug/net8.0/Questionpoint.deps.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Questionpoint/bin/Debug/net8.0/Questionpoint.runtimeconfig.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Questionpoint/bin/Debug/net8.0/Questionpoint.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Questionpoint/bin/Debug/net8.0/Questionpoint.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Questionpoint/obj/Debug/net8.0/Questionpoint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Questionpoint/obj/Debug/net8.0/Questionpoint.AssemblyInfoInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Questionpoint/obj/Debug/net8.0/Questionpoint.AssemblyInfo.cs
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Questionpoint/obj/Debug/net8.0/Questionpoint.csproj.CoreCompileInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Questionpoint/obj/Debug/net8.0/Questionpoint.sourcelink.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Questionpoint/obj/Debug/net8.0/Questionpoint.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Questionpoint/obj/Debug/net8.0/refint/Questionpoint.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Questionpoint/obj/Debug/net8.0/Questionpoint.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Questionpoint/obj/Debug/net8.0/Questionpoint.genruntimeconfig.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-5-Week/01-ArraysHomework/Questionpoint/obj/Debug/net8.0/ref/Questionpoint.dll

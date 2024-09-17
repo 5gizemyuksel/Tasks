@@ -1,0 +1,15 @@
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Vehicle Management System/bin/Debug/net8.0/Vehicle Management System
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Vehicle Management System/bin/Debug/net8.0/Vehicle Management System.deps.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Vehicle Management System/bin/Debug/net8.0/Vehicle Management System.runtimeconfig.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Vehicle Management System/bin/Debug/net8.0/Vehicle Management System.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Vehicle Management System/bin/Debug/net8.0/Vehicle Management System.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Vehicle Management System/obj/Debug/net8.0/Vehicle Management System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Vehicle Management System/obj/Debug/net8.0/Vehicle Management System.AssemblyInfoInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Vehicle Management System/obj/Debug/net8.0/Vehicle Management System.AssemblyInfo.cs
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Vehicle Management System/obj/Debug/net8.0/Vehicle Management System.csproj.CoreCompileInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Vehicle Management System/obj/Debug/net8.0/Vehicle Management System.sourcelink.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Vehicle Management System/obj/Debug/net8.0/Vehicle Management System.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Vehicle Management System/obj/Debug/net8.0/refint/Vehicle Management System.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Vehicle Management System/obj/Debug/net8.0/Vehicle Management System.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Vehicle Management System/obj/Debug/net8.0/Vehicle Management System.genruntimeconfig.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Vehicle Management System/obj/Debug/net8.0/ref/Vehicle Management System.dll
