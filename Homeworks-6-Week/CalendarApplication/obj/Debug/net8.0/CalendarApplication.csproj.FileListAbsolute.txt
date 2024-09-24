@@ -1,0 +1,15 @@
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/CalendarApplication/bin/Debug/net8.0/CalendarApplication
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/CalendarApplication/bin/Debug/net8.0/CalendarApplication.deps.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/CalendarApplication/bin/Debug/net8.0/CalendarApplication.runtimeconfig.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/CalendarApplication/bin/Debug/net8.0/CalendarApplication.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/CalendarApplication/bin/Debug/net8.0/CalendarApplication.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/CalendarApplication/obj/Debug/net8.0/CalendarApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/CalendarApplication/obj/Debug/net8.0/CalendarApplication.AssemblyInfoInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/CalendarApplication/obj/Debug/net8.0/CalendarApplication.AssemblyInfo.cs
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/CalendarApplication/obj/Debug/net8.0/CalendarApplication.csproj.CoreCompileInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/CalendarApplication/obj/Debug/net8.0/CalendarApplication.sourcelink.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/CalendarApplication/obj/Debug/net8.0/CalendarApplication.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/CalendarApplication/obj/Debug/net8.0/refint/CalendarApplication.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/CalendarApplication/obj/Debug/net8.0/CalendarApplication.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/CalendarApplication/obj/Debug/net8.0/CalendarApplication.genruntimeconfig.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/CalendarApplication/obj/Debug/net8.0/ref/CalendarApplication.dll

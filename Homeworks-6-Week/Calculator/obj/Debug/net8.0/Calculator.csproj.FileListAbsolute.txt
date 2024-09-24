@@ -1,0 +1,15 @@
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Calculator/bin/Debug/net8.0/Calculator
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Calculator/bin/Debug/net8.0/Calculator.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Calculator/bin/Debug/net8.0/Calculator.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Calculator/obj/Debug/net8.0/Calculator.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Calculator/obj/Debug/net8.0/Calculator.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Calculator/obj/Debug/net8.0/ref/Calculator.dll

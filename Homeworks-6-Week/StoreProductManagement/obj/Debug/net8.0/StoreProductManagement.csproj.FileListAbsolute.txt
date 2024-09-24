@@ -1,0 +1,15 @@
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/StoreProductManagement/bin/Debug/net8.0/StoreProductManagement
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/StoreProductManagement/bin/Debug/net8.0/StoreProductManagement.deps.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/StoreProductManagement/bin/Debug/net8.0/StoreProductManagement.runtimeconfig.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/StoreProductManagement/bin/Debug/net8.0/StoreProductManagement.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/StoreProductManagement/bin/Debug/net8.0/StoreProductManagement.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/StoreProductManagement/obj/Debug/net8.0/StoreProductManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/StoreProductManagement/obj/Debug/net8.0/StoreProductManagement.AssemblyInfoInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/StoreProductManagement/obj/Debug/net8.0/StoreProductManagement.AssemblyInfo.cs
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/StoreProductManagement/obj/Debug/net8.0/StoreProductManagement.csproj.CoreCompileInputs.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/StoreProductManagement/obj/Debug/net8.0/StoreProductManagement.sourcelink.json
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/StoreProductManagement/obj/Debug/net8.0/StoreProductManagement.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/StoreProductManagement/obj/Debug/net8.0/refint/StoreProductManagement.dll
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/StoreProductManagement/obj/Debug/net8.0/StoreProductManagement.pdb
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/StoreProductManagement/obj/Debug/net8.0/StoreProductManagement.genruntimeconfig.cache
+/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/StoreProductManagement/obj/Debug/net8.0/ref/StoreProductManagement.dll

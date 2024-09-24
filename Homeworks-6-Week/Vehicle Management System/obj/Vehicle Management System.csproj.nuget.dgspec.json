@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Vehicle Management System/Vehicle Management System.csproj": {}
+    "/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Vehicle Management System/Vehicle Management System.csproj": {}
   },
   "projects": {
-    "/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Vehicle Management System/Vehicle Management System.csproj": {
+    "/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Vehicle Management System/Vehicle Management System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Vehicle Management System/Vehicle Management System.csproj",
+        "projectUniqueName": "/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Vehicle Management System/Vehicle Management System.csproj",
         "projectName": "Vehicle Management System",
-        "projectPath": "/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Vehicle Management System/Vehicle Management System.csproj",
+        "projectPath": "/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Vehicle Management System/Vehicle Management System.csproj",
         "packagesPath": "/Users/gizemyuksel/.nuget/packages/",
-        "outputPath": "/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Vehicle Management System/obj/",
+        "outputPath": "/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Vehicle Management System/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gizemyuksel/.nuget/NuGet/NuGet.Config"

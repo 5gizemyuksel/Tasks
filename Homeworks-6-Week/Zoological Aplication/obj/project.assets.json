@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Zoological Aplication/Zoological Aplication.csproj",
+      "projectUniqueName": "/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Zoological Aplication/Zoological Aplication.csproj",
       "projectName": "Zoological Aplication",
-      "projectPath": "/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Zoological Aplication/Zoological Aplication.csproj",
+      "projectPath": "/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Zoological Aplication/Zoological Aplication.csproj",
       "packagesPath": "/Users/gizemyuksel/.nuget/packages/",
-      "outputPath": "/Users/gizemyuksel/Documents/GitHub/BackendClasses/HOMEWORKS/Homeworks-6-Week/Zoological Aplication/obj/",
+      "outputPath": "/Users/gizemyuksel/Documents/GitHub/BackendClasses/HomeWorks_25_08_2024/Homeworks-6-Week/Zoological Aplication/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gizemyuksel/.nuget/NuGet/NuGet.Config"
