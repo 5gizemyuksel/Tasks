@@ -1,0 +1,60 @@
+insert into Kitaplar(KitapAdi,Yazar,YayınYili,SayfaSayisi,ISBN)
+VALUES ('Kürk Mantolu Madonna','Sabahattin Ali', 1943, 160,111),
+       ('Saatleri Ayarlama Enstitüsü', 'Ahmet Hamdi Tanpınar', 1961,392,222),
+       ('Tutunamayanlar', 'Oğuz Atay', 1971,724,333),
+       ('İnce Memed', 'Yaşar Kemal', 1955,437,444),
+       ('Beyaz Kale', 'Orhan Pamuk', 1985,188,555),
+       ('Aylak Adam', 'Yusuf Atılgan',1959,155,666 ),
+       ('Anayurt Oteli', 'Yusuf Atılgan', 1973,133,777),
+       ('Mahrem', 'Elif Şafak', 2000,290,888),
+       ('Fakat Müzeyyen Bu Derin Bir Tutku', 'İlhami Algör', 1996,104,999),
+       ('Kırlangıç Çığlığı', 'Ahmet Ümit', 2018,400,101),
+       ('Serenad', 'Zülfü Livaneli', 2011,484,121),
+       ('Körlük', 'Jose Saramago', 1995,336,131),
+       ('Bir Düğün Gecesi', 'Adalet Ağaoğlu', 1979,303,141),
+       ('Sinekli Bakkal', 'Halide Edip Adıvar', 1936, 408,151),
+       ('Suskunlar', 'İhsan Oktay Anar', 2007,350,161),
+       ('Eylül', 'Mehmet Rauf',1901,200,171),
+       ('Huzur', 'Ahmet Hamdi Tanpınar', 1949,395,181),
+       ('Bir Bilim Adamının Romanı', 'Oğuz Atay', 1975,250,191),
+       ('Tehlikeli Oyunlar', 'Oğuz Atay', 1975,250,201),
+       ('Yanık Saraylar', 'Sevim Burak', 1965,160,211)
+
+       insert into Dergiler(DergiAdi,Yayinci,YayınTarihi,Sayi)
+       values('Atlas','Doğan Burda Dergi Yayıncılık ve Pazarlama A.Ş.','2023-10-01',365),
+       ('Bilim ve Teknik','Tübitak','2023-09-01',679),
+       ('Kafa','Kafa Grup Yayıncılık','2023-09-01',103),
+       ('National Geographic Türkiye','Doğuş Yayın Grubu','2023-10-01',259),
+       ('Notos','Notos Kitap Yayınevi', '2023-10-01',96)
+
+       insert into DVDler(DVDAdi,Yönetmen,YayinYili,Süre)
+       values ('Ahlat Ağacı','Nuri Bilge Ceylan',2018,188),
+              ('Kış Uykusu','Nuri Bilge Ceylan',2014,196),
+              ('Vizontele','Yılmaz Erdoğan, Ömer Faruk Sorak',2001,110),
+              ('G.O.R.A','Ömer Faruk Sorak',2004,127),
+              ('Babam ve Oğlum','Çağan Irmak',2005,112)   
+
+        INSERT INTO Ogrenciler (FullName, MembershipStatus)
+        VALUES
+    ('Ahmet Yılmaz', 'Aktif'),
+    ('Ayşe Demir', 'Pasif'),
+    ('Mehmet Kaya', 'Aktif'),
+    ('Fatma Çelik', 'Aktif'),
+    ('Ali Özkan', 'Pasif'),
+    ('Elif Aydın', 'Aktif'),
+    ('Hasan Yıldırım', 'Pasif'),
+    ('Zeynep Korkmaz', 'Aktif'),
+    ('Mustafa Koç', 'Aktif'),
+    ('Büşra Şahin', 'Pasif'),
+    ('Ozan Eren', 'Aktif'),
+    ('Gizem Aksoy', 'Pasif'),
+    ('Murat Çakır', 'Aktif'),
+    ('Seda Güneş', 'Pasif'),
+    ('Burak Şimşek', 'Aktif'),
+    ('Derya Polat', 'Aktif'),
+    ('Eren Erdem', 'Pasif'),
+    ('Simge Yalçın', 'Aktif'),
+    ('Kerem Taş', 'Pasif'),
+    ('Merve Arslan', 'Aktif');
+      
+
