@@ -1,0 +1,69 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+    
+    <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    </ol>
+
+   
+    <div class="carousel-inner">
+        
+        <div class="carousel-item active">
+            <img src="https://via.placeholder.com/800x400/FF5733/FFFFFF?text=Slayt+1" class="d-block w-100"
+                alt="Slayt 1">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Hoş Geldiniz!</h5>
+                <p>Bu slaytta projemizin tanıtımı yapılıyor.</p>
+            </div>
+        </div>
+
+       
+        <div class="carousel-item">
+            <img src="https://via.placeholder.com/800x400/33C3FF/FFFFFF?text=Slayt+2" class="d-block w-100"
+                alt="Slayt 2">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Özellikler</h5>
+                <p>Projemizin sunduğu özellikler!</p>
+            </div>
+        </div>
+
+        
+        <div class="carousel-item">
+            <img src="https://via.placeholder.com/800x400/75FF33/FFFFFF?text=Slayt+3" class="d-block w-100"
+                alt="Slayt 3">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>İletişim</h5>
+                <p>Bize Ulaşın!</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Carousel Kontrolleri -->
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Önceki</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Sonraki</span>
+    </a>
+</div>
+
+<style>
+    #carouselExampleIndicators {
+        height: 400px;
+        /* Yüksekliği ayarlayabilirsiniz */
+    }
+
+    #carouselExampleIndicators img {
+        height: 100%;
+        /* Görsellerin alanı doldurmasını sağlar */
+        object-fit: cover;
+        /* Görselin kesilmesini engeller */
+    }
+</style>
